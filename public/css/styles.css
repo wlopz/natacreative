@@ -214,7 +214,7 @@ nav ul li a:hover, nav ul li a:focus { text-decoration: none; color: #353535; }
 /* ==========================================================================
 Space
 ========================================================================== */
-.space { background: url('../img/nr_landing_3.png') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 1700px 0; background-size:cover; }
+.space { background: url('../img/nr_landing_3.png') no-repeat center center; background-size: cover; padding: 65px 0 900px 0; height: auto; }
 .space h1 { font-size: 4.2em; letter-spacing: 11px; margin: 10px; text-shadow: 1px 3px 21px #FFF; }
 .space h1 span { display: inline-block; }
 .space p { font-size: 1.2em; letter-spacing: 1px; color: rgb(61, 201, 179); }

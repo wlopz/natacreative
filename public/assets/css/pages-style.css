@@ -1024,6 +1024,18 @@
 	
 	#page-content {}
 
+	#hola {
+		color: #158e92 !important;
+	}
+
+	h1.arrow {
+				color: #353535;
+				letter-spacing: 1px;
+				background: url('../../images/header/h1-bg.png') no-repeat center bottom;
+				padding-bottom: 30px;
+
+	}
+
 /***********************************************************************************
  *	- PAGE HEADER
  ***********************************************************************************/

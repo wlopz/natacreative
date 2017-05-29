@@ -47,7 +47,7 @@
  ***********************************************************************************/
  
 	body {
-		font: 14px/27px "Open Sans", sans-serif;
+		font: 14px/27px "Neutra2Text-Light-LF", sans-serif;
 		background-color: #fff;
 		color: #8f8f8f;
 	}
@@ -76,6 +76,7 @@
 	}
 	
 	h3 {
+		margin-top: 30px;
 		margin-bottom: 12px;
 		font-size: 36px;
 		line-height: 48px;
@@ -276,7 +277,7 @@
 	
 	/* TRANFORMATION CLASSES */
 	.lead {
-		font: 24px/36px "Montserrat", sans-serif;
+		font: 24px/36px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.text-italic {
@@ -400,6 +401,11 @@
 		}
 		
 	}
+
+	@font-face {
+		font-family: Neutra2Text-Light-LF;
+		src: url('../../assets/fonts/neutraface/Neutra2Text-Light-LF.otf');
+	}
 	
 /***********************************************************************************
  *	+ WAVES EFFECT
@@ -449,7 +455,7 @@
 	
 	.headline p {
 		margin-bottom: 0;
-		font: 13px/24px "Montserrat", sans-serif;
+		font: 13px/24px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.title {
@@ -478,7 +484,7 @@
 		border: none;
 		border-radius: 0;
 		color: #fff;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Neutra2Text-Light-LF", sans-serif;
 		text-align: center;
 	}
 
@@ -531,7 +537,7 @@
 	.plus-list li:before {
 		margin-right: 10px;
 		color: #f2484b;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Neutra2Text-Light-LF", sans-serif;
 		font-weight: 700;
 		content: "+";
 	}
@@ -633,7 +639,7 @@
 		border-radius: 20px;
 		margin-bottom: 20px;
 		margin-right: 15px;
-		font: 13px/24px "Montserrat", sans-serif;
+		font: 13px/24px "Neutra2Text-Light-LF", sans-serif;
 		letter-spacing: 0.3px;
 		text-transform: uppercase;
 		-webkit-transition: all 0.25s;
@@ -970,7 +976,7 @@
 	
 	.image-box-2 .image-box-details h6 {
 		margin-bottom: 15px;
-		font: 16px "Montserrat", sans-serif;
+		font: 16px "Neutra2Text-Light-LF", sans-serif;
 		text-transform: uppercase;
 	}
 	
@@ -1045,7 +1051,7 @@
 		margin-bottom: 0;
 		color: #f2484b;
 		opacity: 0;
-		font: 12px/16px "Montserrat", sans-serif;
+		font: 12px/16px "Neutra2Text-Light-LF", sans-serif;
 		text-transform: uppercase;
 		-webkit-transition: all 0.25s;
 				transition: all 0.25s;
@@ -1080,7 +1086,7 @@
 		position: absolute;
 		bottom: 20px;
 		left: 20px;
-		font: 30px/48px "Montserrat", sans-serif;
+		font: 30px/48px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.image-box-3 h4 a {
@@ -1374,7 +1380,7 @@
 		margin-bottom: 15px;
 		background-color: #f2484b;
 		color: #fff;
-		font: 14px/27px "Montserrat", sans-serif;
+		font: 14px/27px "Neutra2Text-Light-LF", sans-serif;
 		white-space: nowrap;
 	    text-overflow: ellipsis;
 		-webkit-transform: translateZ(0);
@@ -1618,7 +1624,7 @@
 	.discount small {
 		display: block;
 		color: #fff;
-		font: 400 14px/36px "Montserrat", sans-serif;
+		font: 400 14px/36px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	
@@ -2837,7 +2843,7 @@
 	.progress-bar-title {
 		margin-bottom: 15px;
 		color: #464646;
-		font: 700 30px "Montserrat", sans-serif;
+		font: 700 30px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.progress-bar-title small {
@@ -2855,7 +2861,7 @@
 		top: -38px;
 		right: 0;
 		color: #464646;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Neutra2Text-Light-LF", sans-serif;
 	}
 
 /***********************************************************************************
@@ -2918,7 +2924,7 @@
 	.comparison-bars .progress-bar-title-before h4 {
 		display: inline-block;
 		margin-bottom: 0;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.comparison-bars .progress-bar-title-after h4 small,
@@ -3266,7 +3272,7 @@
 	.process-steps .step i + h5,
 	.process-steps .step img + h5 {
 		margin-top: -50px;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Neutra2Text-Light-LF", sans-serif;
 		line-height: 26px;
 		-webkit-transition: all 0.25s;
 				transition: all 0.25s;
@@ -3427,7 +3433,7 @@
 	.horizontal-timeline .item h6 {
 		margin-bottom: 20px;
 		color: #f2484b;
-		font: 14px/27px "Montserrat", sans-serif;
+		font: 14px/27px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.horizontal-timeline .owl-prev,
@@ -3494,7 +3500,7 @@
 		position: relative;
 		margin-bottom: 30px;
 		color: #f2484b;
-		font: 16px "Montserrat", sans-serif;
+		font: 16px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.vertical-timeline .period-details h6:before {
@@ -3816,7 +3822,7 @@
 		display: inline-block;
 		border-bottom: 1px solid #f2484b;
 		margin: 0 auto 100px;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Neutra2Text-Light-LF", sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
 	}
@@ -3833,7 +3839,7 @@
 	}
 	
 	.testimonial h5 {
-		font-family: "Montserrat", sans-serif;
+		font-family: "Neutra2Text-Light-LF", sans-serif;
 		text-transform: uppercase;
 	}
 	
@@ -3855,7 +3861,7 @@
  ***********************************************************************************/
 	
 	.isotope {
-		margin-bottom: 75px;
+		margin-bottom: 0;
 	}
 	
 	.isotope.gutter,
@@ -3964,7 +3970,7 @@
 	.filter li a {
 		display: inline-block;
 		color: #8f8f8f;
-		font: 14px/27px "Montserrat", sans-serif;
+		font: 14px/27px "Neutra2Text-Light-LF", sans-serif;
 		text-decoration: none;
 		-webkit-transition: all 0.25s;
 				transition: all 0.25s;
@@ -4015,7 +4021,7 @@
 		border: none;
 		background-color: transparent;
 		color: #464646;
-		font: 16px "Montserrat", sans-serif;
+		font: 16px "Neutra2Text-Light-LF", sans-serif;
 		text-align: center;
 		-webkit-transition: all 0.25s;
 				transition: all 0.25s;
@@ -4607,7 +4613,7 @@
 	#section-16 {
 		padding: 100px 0 80px;
 		margin-bottom: 0;
-		background-image: url(../../images/backgrounds/bg-10.jpg);
+		background-image: url(../../images/work/santa_lexus/banner_lexus.png);
 	}
 	
 	#section-17 {
@@ -4830,7 +4836,7 @@
 	#section-36 .contact span {
 		margin-right: 20px;
 		color: #464646;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Neutra2Text-Light-LF", sans-serif;
 		text-transform: uppercase;
 	}
 	
@@ -4932,7 +4938,7 @@
 		left: 75%;
 		padding-left: 35px;
 		color: #fff;
-		font-family: "Montserrat";
+		font-family: "Neutra2Text-Light-LF";
 		letter-spacing: 35px;
 		text-align: center;
 		text-transform: uppercase;
@@ -5151,7 +5157,7 @@
 		top: 50%;
 		left: 0;
 		width: 100%;
-		font: 700 72px/72px "Montserrat", sans-serif;
+		font: 700 72px/72px "Neutra2Text-Light-LF", sans-serif;
 		letter-spacing: 50px;
 		text-transform: uppercase;
 		text-align: center;
@@ -5610,8 +5616,8 @@
 	
 	/* REVOLUTION SLIDER */
 	.rev_slider_wrapper {
-		margin-bottom: 100px;
-		height: 785px;
+
+		height: 650px !important;
 	}
 	
 	
@@ -5668,7 +5674,7 @@
 	
 	.tp-caption.title-white-bold {
 		color: #fff;
-		font: 72px/72px "Montserrat", sans-serif;
+		font: 72px/72px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.tp-caption.title-white-light {
@@ -5678,12 +5684,12 @@
 	}
 	
 	.tp-caption.title-big {
-		font: 700 92px/92px "Montserrat", sans-serif;
+		font: 700 92px/92px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.tp-caption.title-big-white {
 		color: #fff;
-		font: 700 92px/92px "Montserrat", sans-serif;
+		font: 700 92px/92px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.tp-caption.title-big-light-white {
@@ -5700,7 +5706,7 @@
 	
 	.tp-caption.subtitle-white {
 		color: #fff;
-		font: 700 36px/48px "Montserrat", sans-serif;
+		font: 700 36px/48px "Neutra2Text-Light-LF", sans-serif;
 	}
 	
 	.tp-caption.subtitle-big {
@@ -5746,7 +5752,7 @@
 	
 	.tp-caption.icons {
 		color: #f2484b;
-		font: 14px/27px "Montserrat", sans-serif;
+		font: 14px/27px "Neutra2Text-Light-LF", sans-serif;
 		letter-spacing: 5px;
 		text-align: center;
 		text-transform: uppercase;
@@ -6097,7 +6103,7 @@
 	
 	.widget-title {
 		margin-bottom: 30px;
-		font: 400 13px/18px "Montserrat", sans-serif;
+		font: 400 13px/18px "Neutra2Text-Light-LF", sans-serif;
 		letter-spacing: 2px;
 		text-transform: uppercase;
 	}
@@ -6183,7 +6189,7 @@
 	
 	.widget-categories ul li a strong {
 		color: #464646;
-		font-family: "Montserrat", sans-serif;
+		font-family: "Neutra2Text-Light-LF", sans-serif;
 		font-weight: 400;
 		-webkit-transition: all 0.25s;
 				transition: all 0.25s;
@@ -6365,7 +6371,7 @@
 	
 	.widget-recent-posts ul li .post-title {
 		color: #464646;
-		font: 13px "Montserrat", sans-serif;
+		font: 13px "Neutra2Text-Light-LF", sans-serif;
 		-webkit-transition: all 0.25s;
 				transition: all 0.25s;
 	}
@@ -6439,7 +6445,7 @@
 		margin-bottom: 5px;
 		margin-left: 80px;
 		color: #8f8f8f;
-		font: 10px "Montserrat", sans-serif;
+		font: 10px "Neutra2Text-Light-LF", sans-serif;
 		letter-spacing: 2px;
 		text-decoration: none;
 		text-transform: uppercase;
@@ -6469,7 +6475,7 @@
 		padding-right: 10px;
 		border-right: 1px solid #e1e1e1;
 		color: #f2484b;
-		font: 36px/20px "Montserrat", sans-serif;
+		font: 36px/20px "Neutra2Text-Light-LF", sans-serif;
 		text-align: center;
 		text-transform: uppercase;
 		text-decoration: none;
@@ -6732,9 +6738,13 @@
 	}
 
 	.intro {
-		background: #353535;
+		background: #9a9a9a;
 	}
 
 	.section-padding {
 		padding: 88px 0 100px;
+	}
+
+	#holaa {
+		color: #ffffff;
 	}

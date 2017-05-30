@@ -316,6 +316,7 @@
 	.menu li.sfHover > a {
 		text-decoration: none;
 		color: #f2484b;
+		font-size: 30px;
 	}
 	
 	.menu ul li > a:hover,
@@ -2490,7 +2491,7 @@
 		right: 0;
 		bottom: 0;
 		left: 0;
-		cursor: url(../images/cursor.png), auto;
+		/*cursor: url(../images/cursor.png), auto;*/
 	}
 	
 	.portfolio-item-description + .zoom-action {

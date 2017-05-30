@@ -4611,7 +4611,7 @@
 	}
 	
 	#section-16 {
-		padding: 100px 0 80px;
+		padding: 24px 0 20px;
 		margin-bottom: 0;
 		background-color: #ebca47;
 	}
@@ -6738,7 +6738,7 @@
 	}
 
 	.intro {
-		background: #9a9a9a;
+		background: #232323;
 	}
 
 	.section-padding {
@@ -6747,4 +6747,5 @@
 
 	#holaa {
 		color: #ffffff;
+		font-size: 21px;
 	}

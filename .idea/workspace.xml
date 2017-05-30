@@ -3,7 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="53fe879f-ef75-4f6e-a6cb-167ada5b07c7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/pages-style.css" afterPath="$PROJECT_DIR$/public/assets/css/pages-style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/better_human.html" afterPath="$PROJECT_DIR$/public/better_human.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/eames_exhib.html" afterPath="$PROJECT_DIR$/public/eames_exhib.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/fuego_ampm.html" afterPath="$PROJECT_DIR$/public/fuego_ampm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/holoportme.html" afterPath="$PROJECT_DIR$/public/holoportme.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/lexus_pursuit.html" afterPath="$PROJECT_DIR$/public/lexus_pursuit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/lit.html" afterPath="$PROJECT_DIR$/public/lit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/rc_lexus.html" afterPath="$PROJECT_DIR$/public/rc_lexus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/santa_lexus.html" afterPath="$PROJECT_DIR$/public/santa_lexus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/skid_row.html" afterPath="$PROJECT_DIR$/public/skid_row.html" />
     </list>
     <ignored path="nr_portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="126" column="104" selection-start-line="126" selection-start-column="104" selection-end-line="126" selection-end-column="104" />
+            <state relative-caret-position="165">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -39,8 +49,8 @@
       <file leaf-file-name="rc_lexus.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/rc_lexus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="270">
+              <caret line="95" column="49" selection-start-line="95" selection-start-column="49" selection-end-line="95" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -49,8 +59,8 @@
       <file leaf-file-name="santa_lexus.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/santa_lexus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-465">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="315">
+              <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -59,8 +69,8 @@
       <file leaf-file-name="lexus_pursuit.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/lexus_pursuit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+            <state relative-caret-position="225">
+              <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -69,8 +79,8 @@
       <file leaf-file-name="holoportme.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/holoportme.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-555">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="330">
+              <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -79,8 +89,8 @@
       <file leaf-file-name="lit.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/lit.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="315">
+              <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -89,8 +99,8 @@
       <file leaf-file-name="fuego_ampm.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/fuego_ampm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+            <state relative-caret-position="345">
+              <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -99,18 +109,18 @@
       <file leaf-file-name="better_human.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/better_human.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="300">
+              <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="eames_exhib.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="eames_exhib.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/eames_exhib.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-315">
-              <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="135">
+              <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -119,18 +129,8 @@
       <file leaf-file-name="skid_row.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/skid_row.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/assets/css/custom.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="6736" column="25" selection-start-line="6736" selection-start-column="25" selection-end-line="6736" selection-end-column="25" />
+            <state relative-caret-position="390">
+              <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -139,8 +139,8 @@
       <file leaf-file-name="pages-style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/css/pages-style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="1139" column="5" selection-start-line="1139" selection-start-column="5" selection-end-line="1139" selection-end-column="5" />
+            <state relative-caret-position="264">
+              <caret line="1506" column="23" selection-start-line="1506" selection-start-column="23" selection-end-line="1506" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -168,17 +168,17 @@
         <option value="$PROJECT_DIR$/public/santa.html" />
         <option value="$PROJECT_DIR$/public/assets/js/custom.js" />
         <option value="$PROJECT_DIR$/public/assets/css/custom.css" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/lexus_pursuit.html" />
+        <option value="$PROJECT_DIR$/public/fuego_ampm.html" />
+        <option value="$PROJECT_DIR$/public/eames_exhib.html" />
+        <option value="$PROJECT_DIR$/public/skid_row.html" />
         <option value="$PROJECT_DIR$/public/assets/css/pages-style.css" />
         <option value="$PROJECT_DIR$/public/rc_lexus.html" />
         <option value="$PROJECT_DIR$/public/santa_lexus.html" />
-        <option value="$PROJECT_DIR$/public/lexus_pursuit.html" />
         <option value="$PROJECT_DIR$/public/holoportme.html" />
         <option value="$PROJECT_DIR$/public/lit.html" />
-        <option value="$PROJECT_DIR$/public/fuego_ampm.html" />
         <option value="$PROJECT_DIR$/public/better_human.html" />
-        <option value="$PROJECT_DIR$/public/eames_exhib.html" />
-        <option value="$PROJECT_DIR$/public/skid_row.html" />
-        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -189,7 +189,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1317" />
+    <option name="x" value="1375" />
     <option name="y" value="-120" />
     <option name="width" value="1825" />
     <option name="height" value="1016" />
@@ -386,25 +386,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496010304837</updated>
-      <workItem from="1496010306633" duration="33106000" />
+      <workItem from="1496010306633" duration="37196000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33106000" />
+    <option name="totallyTimeSpent" value="37196000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1317" y="-120" width="1825" height="1016" extended-state="0" />
-    <editor active="true" />
+    <frame x="1375" y="-120" width="1825" height="1016" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14301738" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14245653" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -486,96 +486,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
+        <state relative-caret-position="100890">
           <caret line="6736" column="25" selection-start-line="6736" selection-start-column="25" selection-end-line="6736" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/css/pages-style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="1139" column="5" selection-start-line="1139" selection-start-column="5" selection-end-line="1139" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/rc_lexus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/santa_lexus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-465">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/lexus_pursuit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/holoportme.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-555">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/lit.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/fuego_ampm.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/better_human.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/eames_exhib.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="19" column="47" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/skid_row.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="126" column="104" selection-start-line="126" selection-start-column="104" selection-end-line="126" selection-end-column="104" />
+        <state relative-caret-position="165">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/css/pages-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="1506" column="23" selection-start-line="1506" selection-start-column="23" selection-end-line="1506" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/skid_row.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/rc_lexus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="95" column="49" selection-start-line="95" selection-start-column="49" selection-end-line="95" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/santa_lexus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lexus_pursuit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/holoportme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/lit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/fuego_ampm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/better_human.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="89" column="45" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/eames_exhib.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="89" column="54" selection-start-line="89" selection-start-column="54" selection-end-line="89" selection-end-column="54" />
           <folding />
         </state>
       </provider>

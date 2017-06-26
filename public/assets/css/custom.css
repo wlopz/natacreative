@@ -1,47 +1,3 @@
-/*
- *
- *		CUSTOM.CSS
- *
- *	+ TYPOGRAPHY
- *	+ WAVES EFFECT
- * 	+ HEADLINE
- *	+ ALERTS
- *	+ LISTS
- *	+ BUTTONS
-  *	+ DIVIDERS
- *	+ TEXT BOXES
- *	+ IMAGE BOXES
- *	+ IMAGES GALLERY
- *	+ TOOLTIP
- *	+ OVERLAP SECTION
- *	+ ACCORDION
- * 	+ TABS
- *	+ GOOGLE MAPS
- * 	+ SOCIAL MEDIA
- *	+ PIE CHARTS
- *	+ PROGRESS BARS
- *	+ COMPARISON BARS
- * 	+ COUNTERS
- * 	+ STATISTICS
- * 	+ COUNTDOWN
- *	+ PROCESS STEPS
- *	+ TIMELINE
- *	+ PRICE PLAN
- *	+ BOOKING
- * 	+ TESTIMONIALS
- * 	+ ISOTOPE
- * 	+ FILTER
- * 	+ PAGINATION
- * 	+ BREADCRUMB
- * 	+ FULL SECTIONS
- * 	+ VIDEO PLAYER
- * 	+ SCROLL UP
- *	+ SLIDERS
- *	+ FANCYBOX
- *	+ ANIMATIONS
- *	+ WIDGETS
- */
-	
 /***********************************************************************************
  *	+ TYPOGRAPHY
  ***********************************************************************************/
@@ -5617,10 +5573,10 @@
 	/* REVOLUTION SLIDER */
 	.rev_slider_wrapper {
 
-		height: 650px !important;
+		margin-bottom: 0px;
+		height: 785px;
 	}
-	
-	
+
 	/* ARROWS */
 	.tp-leftarrow.custom,
 	.tp-rightarrow.custom {
@@ -5659,8 +5615,8 @@
 
 	.tp-bullets.custom .tp-bullet:hover,
 	.tp-bullets.custom .tp-bullet.selected {
-		border-color: #fff;
-		background-color: #fff;
+		border-color: rgba(255, 255, 255, 0);
+		background-color: rgba(255, 255, 255, 0);
 	}
 
 

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53fe879f-ef75-4f6e-a6cb-167ada5b07c7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/anything_but.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/public/anything_but.html" afterPath="$PROJECT_DIR$/public/anything_but.html" />
       <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
     </list>
     <ignored path="nr_portfolio.iws" />
@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="220" column="43" lean-forward="true" selection-start-line="220" selection-start-column="43" selection-end-line="220" selection-end-column="43" />
+            <state relative-caret-position="245">
+              <caret line="208" column="72" lean-forward="true" selection-start-line="208" selection-start-column="72" selection-end-line="208" selection-end-column="72" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="anything_but.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="anything_but.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/anything_but.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="131" column="55" lean-forward="true" selection-start-line="131" selection-start-column="55" selection-end-line="131" selection-end-column="55" />
+            <state relative-caret-position="749">
+              <caret line="129" column="14" lean-forward="false" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -69,6 +69,7 @@
       <find>halcyon</find>
       <find>h1-</find>
       <find>fuego</find>
+      <find>anyth</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -98,8 +99,8 @@
         <option value="$PROJECT_DIR$/public/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/public/assets/plugins/revolutionslider/css/navigation.css" />
         <option value="$PROJECT_DIR$/public/assets/css/pages-style.css" />
-        <option value="$PROJECT_DIR$/public/anything_but.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/anything_but.html" />
       </list>
     </option>
   </component>
@@ -273,12 +274,12 @@
       <workItem from="1497476743736" duration="1136000" />
       <workItem from="1498440046968" duration="427000" />
       <workItem from="1498450152295" duration="16053000" />
-      <workItem from="1517818572897" duration="3645000" />
+      <workItem from="1517818572897" duration="4362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59717000" />
+    <option name="totallyTimeSpent" value="60434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-77" y="-991" width="1763" height="952" extended-state="0" />
@@ -708,18 +709,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/anything_but.html">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="131" column="55" lean-forward="true" selection-start-line="131" selection-start-column="55" selection-end-line="131" selection-end-column="55" />
+        <state relative-caret-position="245">
+          <caret line="208" column="72" lean-forward="true" selection-start-line="208" selection-start-column="72" selection-end-line="208" selection-end-column="72" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/public/anything_but.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="220" column="43" lean-forward="true" selection-start-line="220" selection-start-column="43" selection-end-line="220" selection-end-column="43" />
+        <state relative-caret-position="749">
+          <caret line="129" column="14" lean-forward="false" selection-start-line="129" selection-start-column="14" selection-end-line="129" selection-end-column="14" />
           <folding />
         </state>
       </provider>

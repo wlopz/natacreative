@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53fe879f-ef75-4f6e-a6cb-167ada5b07c7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/public/crowdcontrol.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change beforePath="$PROJECT_DIR$/public/crowdcontrol.html" afterPath="$PROJECT_DIR$/public/crowdcontrol.html" />
     </list>
     <ignored path="nr_portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
+            <state relative-caret-position="413">
               <caret line="164" column="79" lean-forward="false" selection-start-line="164" selection-start-column="79" selection-end-line="164" selection-end-column="79" />
               <folding />
             </state>
@@ -39,18 +38,18 @@
       <file leaf-file-name="santa_lexus.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/santa_lexus.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="197" selection-end-column="7" />
+            <state relative-caret-position="314">
+              <caret line="101" column="31" lean-forward="true" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crowdcontrol.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="crowdcontrol.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/crowdcontrol.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="103" column="43" lean-forward="false" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
+            <state relative-caret-position="401">
+              <caret line="101" column="31" lean-forward="true" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -111,8 +110,8 @@
         <option value="$PROJECT_DIR$/public/assets/plugins/revolutionslider/css/navigation.css" />
         <option value="$PROJECT_DIR$/public/assets/css/pages-style.css" />
         <option value="$PROJECT_DIR$/public/anything_but.html" />
-        <option value="$PROJECT_DIR$/public/crowdcontrol.html" />
         <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/crowdcontrol.html" />
       </list>
     </option>
   </component>
@@ -288,12 +287,12 @@
       <workItem from="1498450152295" duration="16053000" />
       <workItem from="1517818572897" duration="7032000" />
       <workItem from="1524168137237" duration="685000" />
-      <workItem from="1583296088257" duration="2124000" />
+      <workItem from="1583296088257" duration="3105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65913000" />
+    <option name="totallyTimeSpent" value="66894000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="91" width="1548" height="862" extended-state="0" />
@@ -705,26 +704,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="164" column="79" lean-forward="false" selection-start-line="164" selection-start-column="79" selection-end-line="164" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/santa_lexus.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="197" selection-end-column="7" />
+        <state relative-caret-position="314">
+          <caret line="101" column="31" lean-forward="true" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/crowdcontrol.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="103" column="43" lean-forward="false" selection-start-line="103" selection-start-column="43" selection-end-line="103" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="164" column="79" lean-forward="false" selection-start-line="164" selection-start-column="79" selection-end-line="164" selection-end-column="79" />
+        <state relative-caret-position="401">
+          <caret line="101" column="31" lean-forward="true" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
           <folding />
         </state>
       </provider>
